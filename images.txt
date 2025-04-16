@@ -5,4 +5,4 @@
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
 ##redis:latest
-coredns/coredns:v1.11.3
+registry.k8s.io/coredns/coredns:v1.11.3
