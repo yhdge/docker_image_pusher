@@ -5,5 +5,4 @@
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
 ##redis:latest
-kubernetesui/metrics-scraper:v1.0.8
-kubernetesui/dashboard:v2.7.0
+coredns/coredns:v1.11.3
