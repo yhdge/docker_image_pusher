@@ -5,4 +5,5 @@
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
 ##redis:latest
-registry.k8s.io/coredns/coredns:v1.11.3
+mysql:8.0.34
+elasticsearch:8.17.4
